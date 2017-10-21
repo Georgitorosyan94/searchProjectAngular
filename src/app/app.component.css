@@ -1,0 +1,18 @@
+.input-box{
+  width: 50%;
+  margin: 50px auto;
+}
+
+.form-style {
+  background: #4D4D4D;
+  color: #B3B3B3;
+}
+
+.input-group .form-control:last-child{
+  text-align: center;
+  border: none;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
